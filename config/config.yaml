@@ -1,0 +1,16 @@
+# MetaGPT Configuration
+project_name: MyMetaGPTProject
+openai_api_key: YOUR_API_KEY_HERE
+# 添加其他配置项...
+
+roles:
+  - name: ProjectManager
+    goal: Manage the project and coordinate tasks
+  - name: ProductManager
+    goal: Define product requirements and features
+  - name: Architect
+    goal: Design the system architecture
+  - name: Engineer
+    goal: Implement the designed features
+
+# 添加更多配置...
